@@ -1,4 +1,5 @@
 # ionic4-rating
+# 2019
 
 A native Ionic 4 rating stars component forked from [ionic-rating](https://www.npmjs.com/package/ionic-rating) to support new Ionic 4 components.
 
